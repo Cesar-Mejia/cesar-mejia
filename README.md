@@ -10,7 +10,7 @@ I am a software developer with experience in web development, machine learning a
 
 
 - **JavaScript**: Proficient in both vanilla JavaScript and libraries such as React.js.
-- **HTML & CSS**: Skilled in creating responsive designs using Bootstrap.
+- **HTML & CSS**: Skilled in creating responsive designs using css and Bootstrap.
 - **Machine Learning**: Familiar with machine learning concepts and python libraries such as Scikit-Learn, Pandas and Matplotlib.
 <br>
 
