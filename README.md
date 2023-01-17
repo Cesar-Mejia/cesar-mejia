@@ -14,5 +14,5 @@ I am a software developer with experience in web development, machine learning a
 
 ## 💼 Connect With Me
 
-<a href="mailto:chmejia1@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><p>
-
+<a href="mailto:chmejia1@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cesar-m/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
