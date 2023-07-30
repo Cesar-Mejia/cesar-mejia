@@ -9,7 +9,7 @@ I am a software developer with experience in web development, machine learning a
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png?20170928190710" width="38" height="38"> <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" height="38">
 
 
-- **JavaScript**: Proficient in both vanilla JavaScript and libraries such as React.js.
+- **JavaScript/Typescript**: Proficient in both JavaScript/Typescript and libraries such as React.
 - **HTML & CSS**: Skilled in creating responsive designs using css and Bootstrap.
 - **Machine Learning**: Experience with machine learning concepts and python libraries such as Scikit-Learn, Pandas and Matplotlib.
 <br>
